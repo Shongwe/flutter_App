@@ -25,7 +25,7 @@ Built with **React (web app)**, **Flutter (mobile app)**, **ASP.NET Core Web API
 
 ## Project Structure
 - [📂 **/web** – React web application](https://github.com/Shongwe/flutter_App/tree/97c8e3eb17ff640ff9ec1ce36ab9f826e4635021/web)
-- 📂 **/mobile** – Flutter mobile application
+- [📂 **/mobile** – Flutter mobile application]() 
 - 📂 **/backend** – ASP.NET Core Web API
 - 📂 **/database** – SQL Server scripts and schema
 
