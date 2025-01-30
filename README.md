@@ -24,9 +24,7 @@ Built with **React (web app)**, **Flutter (mobile app)**, **ASP.NET Core Web API
 - ✅ **API Documentation** with Swagger
 
 ## Project Structure
-  - [Praciting mobile app dev with Dart](https://github.com/Shongwe/flutter_App)
-
-- 📂 **/web** – React web application
+- [📂 **/web** – React web application](https://github.com/Shongwe/flutter_App)
 - 📂 **/mobile** – Flutter mobile application
 - 📂 **/backend** – ASP.NET Core Web API
 - 📂 **/database** – SQL Server scripts and schema
