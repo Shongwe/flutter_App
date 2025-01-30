@@ -26,6 +26,6 @@ Built with **React (web app)**, **Flutter (mobile app)**, **ASP.NET Core Web API
 ## Project Structure
 - [📂 **/web** – React web application](web)
 - [📂 **/mobile** – Flutter mobile application](mobile) 
-- 📂 **/backend** – ASP.NET Core Web API
-- 📂 **/database** – SQL Server scripts and schema
+- [📂 **/backend** – ASP.NET Core Web API](backend)
+- [📂 **/database** – SQL Server scripts and schema](database)
 
