@@ -1,4 +1,4 @@
-# 🚗 Car Rental Management System – Full-Stack Project
+# Car Rental Management System – Full-Stack Project
 
 ## Overview
 The **Car Rental Management System** is a full-stack web and mobile application designed to streamline the car rental process. It allows customers to browse and book vehicles while enabling administrators to manage rentals, users, and payments.
